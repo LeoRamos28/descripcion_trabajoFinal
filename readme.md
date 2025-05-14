@@ -13,9 +13,4 @@
     AngelSilva03
     tobiasrodriguezwilson
 
-    <!-- 
-git init 
-git remote add origin "url"
-git add .
-git commit -m "nombre"
-git push -u origin main -->
+    
