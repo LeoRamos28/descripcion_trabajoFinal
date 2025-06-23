@@ -9,7 +9,7 @@
     Iteraccion de la base datos mediante ORM. 
 
 # Usuarios Github:
-    LeoRamos2870
+    LeoRamos28
     AngelSilva03
     tobiasrodriguezwilson
 
